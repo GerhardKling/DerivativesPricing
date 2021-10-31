@@ -1,4 +1,6 @@
 #include <iostream>
+#include <Random1.h>
+#include <cmath>
 
 using namespace std;
 
