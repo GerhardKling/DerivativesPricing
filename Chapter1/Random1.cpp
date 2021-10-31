@@ -1,4 +1,4 @@
-#include <Random1.h>
+#include "Random1.h"
 #include <cstdlib>
 #include <cmath>
 
@@ -14,6 +14,8 @@ using namespace std;
 
 double GetOneGaussianBySummation()
 {
+double result = 0;
+
     for (unsigned long j = 0; j < 12; j++)
         result += rand()/static_cast<double>(RAND_MAX);
     result -= 6; // ensures mean = 0
@@ -38,3 +40,4 @@ while (SizeSquared >= 1.0);
 result = x * sqrt(-2 * log(SizeSquared)/SizeSquared);
 return result;
 }
+

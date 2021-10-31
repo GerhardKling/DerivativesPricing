@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635688596 source:c:\users\user\documents\gerhard\aberdeen home\c++\derivativespricing\chapter1\main.cpp
+	<iostream>
+
+1635688648 source:c:\users\user\documents\gerhard\aberdeen home\c++\derivativespricing\chapter1\random1.cpp
+	"Random1.h"
+	<cstdlib>
+	<cmath>
+
+1635688560 c:\users\user\documents\gerhard\aberdeen home\c++\derivativespricing\chapter1\random1.h
+
