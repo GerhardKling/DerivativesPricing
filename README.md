@@ -4,6 +4,9 @@ This repository is based on Mark S. Joshi's book C++ Design Patterns and Derivat
 # Other repositories
 I found an excellent repository, which covers some of the exercises in the book. I refer to https://github.com/mattmcd/QuantFinance for further details.
 
+# Note
+This is very much work in progress. I hope to finish the book and also upload a few YouTube videos.
+
 # Chapter 1: A simple Monte Carlo model
 You find more information on the Box-Muller transformation here:
 https://mathworld.wolfram.com/Box-MullerTransformation.html
